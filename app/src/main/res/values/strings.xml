@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mycards</string>
+    <string name="how_many_players">how many players?</string>
+    <string name="submit">submit</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="add_row">Add Row</string>
+    <string name="zero">0</string>
+    <string name="_0">0</string>
+</resources>
